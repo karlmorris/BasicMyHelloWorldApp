@@ -15,7 +15,5 @@ public class MainActivity extends AppCompatActivity {
         int b = 235;
         int total = a + b;
 
-        Log.d("Theansweris:   ", String.valueOf(total));
-
     }
 }
